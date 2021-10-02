@@ -14,7 +14,7 @@ A table built in react that includes all the CRUD (Create, Read, Update, Delete)
   <h2>
   Deployment</h2>
   <pre>
-  git clone 
+  git clone git@github.com:tanya26-co/Todo_App_React.git
   </pre>
   </div>
  
